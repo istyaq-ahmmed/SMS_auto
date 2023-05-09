@@ -1,0 +1,14 @@
+{
+    "API_KEY":"dfc3dbec",
+    "API_SECRET":"mbjB73I4BzDoBH4A",
+    "FROM_NUMBER":"12046900991",
+    "array": [
+        ["Hello","Hi","Welcome"],
+        [", please come "], 
+        ["superstore","supermarket","hypermarket"],
+        [" at our store! "],
+        ["https://mysuperstore.com","https://mymegastore.com","https://myWOWstore.com"],
+        ["Thanky You.","best regard","etc.."],
+        ["JOAN SANDERS"]
+    ]
+ }
